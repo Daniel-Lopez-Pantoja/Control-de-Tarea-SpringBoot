@@ -1,2 +1,5 @@
 # Control-de-Tarea-SpringBoot
-Control de tareas básico con SpringBoot.
+Aquí tenemos un Control de tareas básico realizado con SpringBoot.
+En este control de tareas podemos realizar todas las funciones de un CRUD.
+
+Cabe resaltar que es el primer ejercicio realizado con Spring Boot, así que habrá muchas cosas por mejorar. Sigo trabajando en él.
